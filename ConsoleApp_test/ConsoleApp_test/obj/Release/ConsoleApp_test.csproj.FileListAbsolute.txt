@@ -1,0 +1,16 @@
+C:\Users\ezznwp\source\repos\ConsoleApp_test\ConsoleApp_test\bin\Release\ConsoleApp_test.exe.config
+C:\Users\ezznwp\source\repos\ConsoleApp_test\ConsoleApp_test\bin\Release\ConsoleApp_test.exe
+C:\Users\ezznwp\source\repos\ConsoleApp_test\ConsoleApp_test\bin\Release\ConsoleApp_test.pdb
+C:\Users\ezznwp\source\repos\ConsoleApp_test\ConsoleApp_test\bin\Release\MEDAQLib.NET.dll
+C:\Users\ezznwp\source\repos\ConsoleApp_test\ConsoleApp_test\bin\Release\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\ezznwp\source\repos\ConsoleApp_test\ConsoleApp_test\bin\Release\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\ezznwp\source\repos\ConsoleApp_test\ConsoleApp_test\bin\Release\ThorLabs.MotionControl.KCube.DCServoCLI.dll
+C:\Users\ezznwp\source\repos\ConsoleApp_test\ConsoleApp_test\bin\Release\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\ezznwp\source\repos\ConsoleApp_test\ConsoleApp_test\bin\Release\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\ezznwp\source\repos\ConsoleApp_test\ConsoleApp_test\bin\Release\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\ezznwp\source\repos\ConsoleApp_test\ConsoleApp_test\bin\Release\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\ezznwp\source\repos\ConsoleApp_test\ConsoleApp_test\obj\Release\ConsoleApp_test.csproj.AssemblyReference.cache
+C:\Users\ezznwp\source\repos\ConsoleApp_test\ConsoleApp_test\obj\Release\ConsoleApp_test.csproj.CoreCompileInputs.cache
+C:\Users\ezznwp\source\repos\ConsoleApp_test\ConsoleApp_test\obj\Release\ConsoleApp_test.csproj.CopyComplete
+C:\Users\ezznwp\source\repos\ConsoleApp_test\ConsoleApp_test\obj\Release\ConsoleApp_test.exe
+C:\Users\ezznwp\source\repos\ConsoleApp_test\ConsoleApp_test\obj\Release\ConsoleApp_test.pdb
